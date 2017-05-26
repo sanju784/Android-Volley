@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/Desktop/android_project/Android-Volley/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8ba43405fea1ebb8d85eb1a9e42fe2074ca9f42">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1f2786fe86504abbb06088ac045bd9278c4f4ba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/Desktop/android_project/Android-Volley/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_56102e7a3178d0ca25e40c5557a80f2db24d0301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_4703b3e83cc1677ceb25de9f46a0ee69acf8779b/classes.dex" />
+    </item>
+
+</items>

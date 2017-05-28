@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button btn;
     TextView textView;
+
+    //change the path of url as per your server and script file.
     String server_url = "http://192.168.0.5/hello.php";
 
     @Override
